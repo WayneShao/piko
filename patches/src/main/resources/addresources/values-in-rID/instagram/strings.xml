@@ -131,6 +131,8 @@
     <string name="piko_enable_direct_download_desc">Mengunduh media yang sedang dilihat tanpa menanyakan pilihan</string>
     <string name="piko_download_username_folder">Pisahkan media berdasarkan nama pengguna</string>
     <string name="piko_download_username_folder_desc">Membuat subfolder berdasarkan nama pengguna</string>
+    <string name="piko_embed_download_metadata">Sematkan metadata video</string>
+    <string name="piko_embed_download_metadata_desc">Menambahkan keterangan, tautan postingan, pembuat, dan tanggal unggah ke berkas MP4 yang diunduh</string>
     <string name="piko_download_current_media">Unduh media saat ini</string>
     <string name="piko_download_as_image">Unduh sebagai gambar</string>
     <string name="piko_video_variants">Varian video</string>
@@ -173,6 +175,8 @@
     <string name="piko_hide_navigation_create">Sembunyikan tombol Buat</string>
     <!-- Information Section -->
     <string name="piko_category_about">Tentang</string>
+    <string name="piko_export_pref">Ekspor pengaturan Piko</string>
+    <string name="piko_import_pref">Impor pengaturan Piko</string>
     <string name="piko_reset_pref">Atur ulang pengaturan Piko</string>
     <string name="piko_reset_pref_confirm">Atur ulang pengaturan Piko?</string>
     <string name="piko_reset_pref_success">Pengaturan Piko diatur ulang</string>
